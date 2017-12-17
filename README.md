@@ -6,6 +6,9 @@ In this assignment, I created another fun and interactive game for web browsers.
 
 ### CrystalsCollector Game
 
+![Crystal Collector](https://github.com/RutgersCodingBootcamp/RUTJC201711FSF2-Class-Repository-FSF/blob/master/04-jquery/02-Homework/Instructions/Images/1-CrystalCollector.jpg)
+
+
 1. [Watch the demo](homework_demos/crystalsCollector_demo.mp4).
 
 2. The player will have to guess the answer, just like in Hangman. This time, though, the player will guess with numbers instead of letters. 
