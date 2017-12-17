@@ -6,10 +6,10 @@ In this assignment, I created another fun and interactive game for web browsers.
 
 ### CrystalsCollector Game
 
-![Crystal Collector](/images/1-CrystalCollector.jpg)
+![Crystal Collector](https://github.com/chiefthinkerupper/week-4-game/images/1-CrystalCollector.jpg)
 
 
-1. [Watch the demo](/images/crystalsCollector_demo.mp4).
+1. [Watch the demo](https://github.com/chiefthinkerupper/week-4-game/images/crystalsCollector_demo.mp4).
 
 2. The player will have to guess the answer, just like in Hangman. This time, though, the player will guess with numbers instead of letters. 
 
